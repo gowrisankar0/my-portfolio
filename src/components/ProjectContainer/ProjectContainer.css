@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Crimson+Text&family=Montserrat:wght@300;600&family=Open+Sans:ital,wght@0,600;0,700;1,400&family=Poppins:ital,wght@0,400;0,600;1,300;1,600&family=Roboto:ital,wght@0,400;0,700;0,900;1,300;1,400;1,700&family=Secular+One&display=swap');
+.projectContainer{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    justify-content: center;
+    margin:180px auto;
+    align-items: center;
+
+}
+.projectContainer>h1{
+    padding-bottom: 15px;
+
+}
+.projectContainer>p{
+    padding-bottom: 20px;
+    
+}
+.projectContainer__projects{
+    display: flex;
+    width: 78vw;
+    margin-top: 50px;
+    flex-wrap: wrap;
+    margin: auto;
+    
+}

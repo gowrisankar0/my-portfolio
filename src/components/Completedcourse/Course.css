@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Crimson+Text&family=Josefin+Sans&family=Montserrat:wght@300;600&family=Open+Sans:ital,wght@0,600;0,700;1,400&family=Poppins:ital,wght@0,400;0,600;1,300;1,600&family=Roboto:ital,wght@0,400;0,700;0,900;1,300;1,400;1,700&family=Secular+One&display=swap');
+.course{
+    display: flex;
+    flex-direction: column;
+    border: 2px dotted white;
+    border-radius: 10px;
+    width:200px;
+    height:150px;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    overflow: hidden;
+}
+.course>p{
+    font-family: "Josefin Sans",sans-serif;
+    font-size: 16px;
+    letter-spacing: 1px;
+
+}
